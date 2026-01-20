@@ -1,6 +1,6 @@
 # 🛡️ Security-Advisories
 
-> Personal security research and original vulnerability advisories. Focus on 0day/1day discovery, PoC development, and technical analysis.
+> Personal security research and original vulnerability advisories. Focus on 0day discovery, PoC development, and technical analysis.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Focus](https://img.shields.io/badge/focus-Original%20Vulnerabilities-red.svg)
